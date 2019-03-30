@@ -6,6 +6,7 @@
     "datamaps": "^0.5.9",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-nyc-choropleth": "^1.0.6",
     "react-scripts": "2.1.8"
   },
   "scripts": {
