@@ -29,6 +29,7 @@ class NYC extends React.Component {
           tooltip={true}
           tooltipSticky={false}
           data={data}
+          interactive={true}
           neighborhoodStyle={neighborhoodStyle}
           neighborhoodHoverStyle={neighborhoodHoverStyle}
           excludeNeighborhoods={excludeNeighborhoods}
