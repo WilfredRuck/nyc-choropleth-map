@@ -15,7 +15,7 @@ class NYC extends React.Component {
 
     return (
       <div>
-
+        <h1>Choropleth Map of NYC (Manhattan)</h1>
         <ReactNYC
           mapboxAccessToken={mapboxAccessToken} // Required
           mapHeight="800px" // Required
